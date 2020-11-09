@@ -1,0 +1,12 @@
+C:\Users\PC-lite\source\repos\project1\project1\bin\Debug\project1.exe.config
+C:\Users\PC-lite\source\repos\project1\project1\bin\Debug\project1.exe
+C:\Users\PC-lite\source\repos\project1\project1\bin\Debug\project1.pdb
+C:\Users\PC-lite\source\repos\project1\project1\bin\Debug\project1.xml
+C:\Users\PC-lite\source\repos\project1\project1\obj\Debug\project1.vbprojAssemblyReference.cache
+C:\Users\PC-lite\source\repos\project1\project1\obj\Debug\project1.Resources.resources
+C:\Users\PC-lite\source\repos\project1\project1\obj\Debug\project1.vbproj.GenerateResource.cache
+C:\Users\PC-lite\source\repos\project1\project1\obj\Debug\project1.vbproj.CoreCompileInputs.cache
+C:\Users\PC-lite\source\repos\project1\project1\obj\Debug\project1.exe
+C:\Users\PC-lite\source\repos\project1\project1\obj\Debug\project1.xml
+C:\Users\PC-lite\source\repos\project1\project1\obj\Debug\project1.pdb
+C:\Users\PC-lite\source\repos\project1\project1\obj\Debug\project1.frmMenu.resources
